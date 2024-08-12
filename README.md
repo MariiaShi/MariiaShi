@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariiaShi
 - 👀 I’m interested in hiking, yoga, reading, languages including programming languages.
-- 🌱 I’m currently learning Softaware Testing, Java and Linux.
+- 🌱 I’m currently learning Software Testing, Java and Linux.
 - 💞️ I’m looking to collaborate on this and seeing how we can develop new ideas together.
 - 📫 How to reach me: shirokova.maria14@gmail.com
 - 😄 Pronouns: she/her
